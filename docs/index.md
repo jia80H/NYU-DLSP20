@@ -41,7 +41,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week01/01-1">History and motivation</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1Q7LtZyIS1f3TfeTGll3aDtWygh3GAfCb">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/001-intro.pdf">🖥️</a>
         <a href="https://www.youtube.com/watch?v=0bMe_vCZo30">🎥</a>
       </td>
     </tr>
@@ -61,7 +61,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week02/02-1">SGD and backprop</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1w2jV_BT2hWzfOKBR02x_rB4-dfVUI6SR">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/002-backprop.pdf">🖥️</a>
         <a href="https://www.youtube.com/watch?v=d9vdh3b787Y">🎥</a>
       </td>
     </tr>
@@ -82,7 +82,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week03/03-1">Parameter transformation</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=18UFaOGNKKKO5TYnSxr2b8dryI-PgZQmC">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/003-convnet.pdf">🖥️</a>
         <a href="https://youtu.be/FW5gFiJb-ig">🎥</a>
       </td>
     </tr>
@@ -112,7 +112,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week05/05-1">Optimisation I</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1pwlGN6hDFfEYQqBqcMjWbe4yfBDTxsab">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/004-optimization.pdf">🖥️</a>
         <a href="https://youtu.be/--NZb480zlg">🎥</a>
       </td>
     </tr>
@@ -132,8 +132,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week06/06-1">CNN applications</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1opT7lV0IRYJegtZjuHsKhlsM5L7GpGL1">🖥️</a>
-        <a href="https://drive.google.com/open?id=1sdeVBC3nuh5Zkm2sqzdScEicRvLc_v-F">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/005-convnet2.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/006-architectures.pdf">🖥️</a>
         <a href="https://youtu.be/ycbMGyCPzvE">🎥</a>
       </td>
     </tr>
@@ -154,7 +154,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week07/07-1">Energy-Based Models</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1z8Dz1YtkOEJpU-gh5RIjORs3GGqkYJQa">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/007-ebm-01.pdf">🖥️</a>
         <a href="https://youtu.be/tVwV14YkbYs">🎥</a>
       </td>
     </tr>
@@ -174,7 +174,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week08/08-1">Contrastive methods</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1Zo_PyBEO6aNt0GV74kj8MQL7kfHdIHYO">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/008-ebm-02.pdf">🖥️</a>
         <a href="https://youtu.be/ZaVP2SY23nc">🎥</a>
       </td>
     </tr>
@@ -194,7 +194,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week09/09-1">Sparsity</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=1wJRzhjSqlrSqEpX4Omagb_gdIkQ5f-6K">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/009-ebm-03.pdf">🖥️</a>
         <a href="https://youtu.be/Pgct8PKV7iw">🎥</a>
       </td>
     </tr>
@@ -214,7 +214,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week10/10-1">CV SSL I</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/open?id=16lsnDN2HIBTcRucbVKY5B_U16c0tNQhR">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/010-ssv.pdf">🖥️</a>
         <a href="https://youtu.be/0KeR6i1_56g">🎥</a>
       </td>
     </tr>
@@ -234,9 +234,9 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week11/11-1">Activations</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/file/d/1AzFVLG7D4NK6ugh60f0cJQGYF5OL2sUB">🖥️</a>
-        <a href="https://drive.google.com/file/d/1rkiZy0vjZqE2w7baVWvxwfAGae0Eh1Wm">🖥️</a>
-        <a href="https://drive.google.com/file/d/1tryOlVAFmazLLZusD2-UfReFMkPk5hPk">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/011-pytorch-activations.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/011-pytorch-losses.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/011-ebm-04.pdf">🖥️</a>
         <a href="https://youtu.be/bj1fh3BvqSU">🎥</a>
       </td>
     </tr>
@@ -256,7 +256,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week12/12-1">DL for NLP I</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/file/d/149m3wRavTp4DQZ6RJTej8KP8gv4jnkPW/">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/012-language.pdf">🖥️</a>
         <a href="https://youtu.be/6D4EWKJgNn0">🎥</a>
       </td>
     </tr>
@@ -276,7 +276,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week13/13-1">GCNs I</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/file/d/1oq-nZE2bEiQjqBlmk5_N_rFC8LQY0jQr/">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/013-gcn.pdf">🖥️</a>
         <a href="https://youtu.be/Iiv9R6BjxHM">🎥</a>
       </td>
     </tr>
@@ -296,7 +296,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Lecture</td>
       <td><a href="en/week14/14-1">Structured Prediction</a></td>
       <td rowspan="2">
-        <a href="https://drive.google.com/file/d/1qBu-2hYWaGYEXeX7kAU8O4S2RZ1hMjsk/">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/ppts/014-structured.pdf">🖥️</a>
         <a href="https://youtu.be/gYayCG6YyO8">🎥</a>
       </td>
     </tr>
