@@ -1,3 +1,4 @@
+<base target="_blank">
 ---
 layout: default
 title: DEEP LEARNING
@@ -49,8 +50,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week01/01-3">Neural nets (NN)</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/01-tensor_tutorial.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/02-space_stretching.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/01-tensor_tutorial.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/02-space_stretching.ipynb">📓</a>
         <a href="https://www.youtube.com/watch?v=5_qrxVq1kvc">🎥</a>
       </td>
     </tr>
@@ -69,9 +70,9 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week02/02-3">NN training</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/04-spiral_classification.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/05-regression.ipynb">📓</a>
         <a href="https://www.youtube.com/watch?v=WAn6lip5oWk">🎥</a>
       </td>
     </tr>
@@ -90,8 +91,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week03/03-3">Natural signals' properties</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/02%20-%20CNN.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/06-convnet.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/02%20-%20CNN.pdf">🖥</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/06-convnet.ipynb">📓</a>
         <a href="https://youtu.be/kwPWpVverkw">🎥</a>
       </td>
     </tr>
@@ -101,7 +102,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week04/04-1">1D convolutions</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/07-listening_to_kernels.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/07-listening_to_kernels.ipynb">📓</a>
         <a href="https://youtu.be/OrBEon3VlQg">🎥</a>
       </td>
     </tr>
@@ -120,8 +121,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week05/05-3">CNN, autograd</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/03-autograd_tutorial.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/extra/b-custom_grads.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/03-autograd_tutorial.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/extra/b-custom_grads.ipynb">📓</a>
         <a href="https://youtu.be/eEzCZnOFU1w">🎥</a>
       </td>
     </tr>
@@ -141,9 +142,9 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week06/06-3">Training RNNs</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/08-seq_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/09-echo_data.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/04%20-%20RNN.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/08-seq_classification.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/09-echo_data.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/04%20-%20RNN.pdf">🖥️</a>
         <a href="https://youtu.be/8cAffg2jaT0">🎥</a>
       </td>
     </tr>
@@ -162,8 +163,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week07/07-3">Autoencoders</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/10-autoencoder.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/10-autoencoder.ipynb">📓</a>
         <a href="https://youtu.be/bggWQ14DD9M">🎥</a>
       </td>
     </tr>
@@ -182,8 +183,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week08/08-3">Training VAEs</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/11-VAE.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/11-VAE.ipynb">📓</a>
         <a href="https://youtu.be/7Rb4s9wNOmc">🎥</a>
       </td>
     </tr>
@@ -202,7 +203,7 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week09/09-3">Training GANs</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
         <a href="https://github.com/pytorch/examples/tree/master/dcgan">📓</a>
         <a href="https://youtu.be/xYc11zyZ26M">🎥</a>
       </td>
@@ -222,8 +223,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week10/10-3">Predictive Control</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/09%20-%20Controller%20learning.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/14-truck_backer-upper.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/09%20-%20Controller%20learning.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/14-truck_backer-upper.ipynb">📓</a>
         <a href="https://youtu.be/A3klBqEWR-I">🎥</a>
       </td>
     </tr>
@@ -264,8 +265,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week12/12-3">Attention & transformer</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/10%20-%20Attention%20%26%20transformer.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/15-transformer.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/10%20-%20Attention%20%26%20transformer.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/15-transformer.ipynb">📓</a>
         <a href="https://youtu.be/f01J0Dri-6k">🎥</a>
       </td>
     </tr>
@@ -284,8 +285,8 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week13/13-3">GCNs III</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/11%20-%20GCN.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/16-gated_GCN.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/11%20-%20GCN.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/16-gated_GCN.ipynb">📓</a>
         <a href="https://youtu.be/2aKXWqkbpWg">🎥</a>
       </td>
     </tr>
@@ -304,10 +305,10 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="1">Practicum</td>
       <td><a href="en/week14/14-3">Regularisation and Bayesian</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/07%20-%20Regularisation.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/12-regularization.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/08%20-%20Bayesian%20NN.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/13-bayesian_nn.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/07%20-%20Regularisation.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/12-regularization.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/08%20-%20Bayesian%20NN.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/13-bayesian_nn.ipynb">📓</a>
         <a href="https://youtu.be/DL7iew823c0">🎥</a>
       </td>
     </tr>
@@ -317,14 +318,14 @@ This course concerns the latest techniques in deep learning and representation l
       <td rowspan="2">Practicum</td>
       <td><a href="en/week15/15-1">Inference for Latent-Variable EBMs</a></td>
       <td rowspan="1">
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
         <a href="https://youtu.be/sbhr2wjU1-I">🎥</a>
       </td>
     </tr>
     <tr>
       <td><a href="en/week15/15-2">Training Latent-Variable EBMs</a></td>
       <td rowspan="1">
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
         <a href="https://youtu.be/XLSb1Cs1Jao">🎥</a>
       </td>
     </tr>

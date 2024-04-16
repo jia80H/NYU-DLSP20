@@ -61,8 +61,8 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="{{site.baseurl}}/zh/week01/01-3">神经网络 NN</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/01-tensor_tutorial.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/02-space_stretching.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/01-tensor_tutorial.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/02-space_stretching.ipynb">📓</a>
         <a href="https://www.youtube.com/watch?v=5_qrxVq1kvc">🎥</a>
       </td>
     </tr>
@@ -80,9 +80,9 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="{{site.baseurl}}/zh/week02/02-3">训练神经网络</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/04-spiral_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/05-regression.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/01%20-%20Spiral%20classification.pdf">🖥</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/04-spiral_classification.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/05-regression.ipynb">📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 3 ================================ -->
@@ -99,8 +99,8 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="{{site.baseurl}}/zh/week03/03-3">自然信号的性质</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/02%20-%20CNN.pdf">🖥</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/06-convnet.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/02%20-%20CNN.pdf">🖥</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/06-convnet.ipynb">📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 4 ================================ -->
@@ -109,7 +109,7 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="{{site.baseurl}}/zh/week04/04-1">一维卷积</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/07-listening_to_kernels.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/07-listening_to_kernels.ipynb">📓</a>
       </td>
     </tr>
 <!-- =============================== WEEK 5 ================================ -->
@@ -127,8 +127,8 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week05/05-3">了解卷积和自动微分引擎</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/03-autograd_tutorial.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/extra/b-custom_grads.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/03-autograd_tutorial.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/extra/b-custom_grads.ipynb">📓</a>
         <a href="https://youtu.be/eEzCZnOFU1w">🎥</a>
       </td>
     </tr>
@@ -148,9 +148,9 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week06/06-3">训练循环神经网路</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/04%20-%20RNN.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/08-seq_classification.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/09-echo_data.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/04%20-%20RNN.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/08-seq_classification.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/09-echo_data.ipynb">📓</a>
         <a href="https://youtu.be/8cAffg2jaT0">🎥</a>
       </td>
     </tr>
@@ -169,8 +169,8 @@ translator: Mingyang Zhao
       <td rowspan="1">Practicum</td>
       <td><a href="zh/week07/07-3">自动编码器</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/10-autoencoder.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/10-autoencoder.ipynb">📓</a>
         <a href="https://youtu.be/bggWQ14DD9M">🎥</a>
       </td>
     </tr>
@@ -189,8 +189,8 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week08/08-3">训练变分自编码器</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/11-VAE.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/11-VAE.ipynb">📓</a>
         <a href="https://youtu.be/7Rb4s9wNOmc">🎥</a>
       </td>
     </tr>
@@ -209,7 +209,7 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week09/09-3">训练对抗性生成网络(GANs)</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
         <a href="https://github.com/pytorch/examples/tree/master/dcgan">📓</a>
         <a href="https://youtu.be/xYc11zyZ26M">🎥</a>
       </td>
@@ -229,8 +229,8 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week10/10-3">有预测性的控制</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/09%20-%20Controller%20learning.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/14-truck_backer-upper.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/09%20-%20Controller%20learning.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/14-truck_backer-upper.ipynb">📓</a>
         <a href="https://youtu.be/A3klBqEWR-I">🎥</a>
       </td>
     </tr>
@@ -271,8 +271,8 @@ translator: Mingyang Zhao
       <td rowspan="1">Practicum</td>
       <td><a href="zh/week12/12-3">Attention & transformer</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/10%20-%20Attention%20%26%20transformer.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/15-transformer.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/10%20-%20Attention%20%26%20transformer.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/15-transformer.ipynb">📓</a>
         <a href="https://youtu.be/f01J0Dri-6k">🎥</a>
       </td>
     </tr>
@@ -291,8 +291,8 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week13/13-3">图形卷积网络 III</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/11%20-%20GCN.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/16-gated_GCN.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/11%20-%20GCN.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/16-gated_GCN.ipynb">📓</a>
         <a href="https://youtu.be/2aKXWqkbpWg">🎥</a>
       </td>
     </tr>
@@ -311,10 +311,10 @@ translator: Mingyang Zhao
       <td rowspan="1">动手做</td>
       <td><a href="zh/week14/14-3">正则化和贝叶斯</a></td>
       <td>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/07%20-%20Regularisation.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/12-regularization.ipynb">📓</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/08%20-%20Bayesian%20NN.pdf">🖥️</a>
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/13-bayesian_nn.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/07%20-%20Regularisation.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/12-regularization.ipynb">📓</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/08%20-%20Bayesian%20NN.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/13-bayesian_nn.ipynb">📓</a>
         <a href="https://youtu.be/DL7iew823c0">🎥</a>
       </td>
     </tr>
@@ -324,14 +324,14 @@ translator: Mingyang Zhao
       <td rowspan="2">动手做</td>
       <td><a href="zh/week15/15-1">潜在变量基于能量的模型（EBM）的推论</a></td>
       <td rowspan="1">
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
         <a href="https://youtu.be/sbhr2wjU1-I">🎥</a>
       </td>
     </tr>
     <tr>
       <td><a href="zh/week15/15-2">训练潜在变量能量基础模型（EBM）</a></td>
       <td rowspan="1">
-        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
+        <a href="https://github.com/jia80H/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf">🖥️</a>
         <a href="https://youtu.be/XLSb1Cs1Jao">🎥</a>
       </td>
     </tr>
