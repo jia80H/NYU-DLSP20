@@ -24,3 +24,4 @@ data
 .jekyll-cache
 _site
 .vscode
+student_data # 数据集
