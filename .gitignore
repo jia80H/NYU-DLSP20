@@ -25,3 +25,6 @@ data
 _site
 .vscode
 student_data # 数据集
+
+test_file.*
+/test_folder
